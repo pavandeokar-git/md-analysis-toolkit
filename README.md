@@ -1,10 +1,11 @@
-3 md_analysis_toolkit
+# md_analysis_toolkit
+
 <img width="300" height="244" alt="Protein_Dynamics_Cytochrome_C_2NEW_small" src="https://github.com/user-attachments/assets/c8a3ab51-de0a-470a-9edf-de18b0435848" />
 
 
-**A Python-based toolkit for automated analysis of molecular dynamics (MD) simulations, designed for computational drug design (CADD) workflows.**
+### A Python-based toolkit for automated analysis of molecular dynamics (MD) simulations, designed for computational drug design (CADD) workflows.
 
-This toolkit enables fast, reproducible, and publication-ready analysis of MD trajectories using MDAnalysis.
+### his toolkit enables fast, reproducible, and publication-ready analysis of MD trajectories using MDAnalysis.
 ---
 
 git clone https://github.com/pavandeokar-git/md-analysis-toolkit.git
