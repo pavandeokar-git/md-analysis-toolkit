@@ -42,11 +42,31 @@ Includes:
 .png → high-quality plots
 
 ### Example Outputs
-#### RMSD Plot
-![RMSD Plot](images/rmsd.png)
 
-#### PCA Clustering
-![PCA Clustering](images/pca_clusters.png)
+### RMSD
+<p align="center">
+  <img src="images/rmsd.png" width="600">
+</p>
+
+### RMSF
+<p align="center">
+  <img src="images/rmsf.png" width="600">
+</p>
+
+### Radius of Gyration
+<p align="center">
+  <img src="images/rg.png" width="600">
+</p>
+
+### Hydrogen Bonds
+<p align="center">
+  <img src="images/hbonds.png" width="600">
+</p>
+
+### PCA Clustering
+<p align="center">
+  <img src="images/pca_clusters.png" width="600">
+</p>
 ---
 ## Test Dataset
 Uses sample trajectory from:
@@ -59,7 +79,7 @@ Post-docking MD validation
 Conformational clustering
 Drug design workflows
 ---
-##Author
+## Author
 Pavan Deokar
 Computational Drug Discovery Researcher
 M.S. (Pharm.) Pharmacoinformatics
