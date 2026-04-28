@@ -1,4 +1,4 @@
-<img width="500" height="330" alt="image" src="https://github.com/user-attachments/assets/8a905dc3-6782-4ca8-b631-f1fbd0b3510e" />
+<img width="1536" height="1024" alt="ChatGPT Image Apr 29, 2026, 12_28_15 AM" src="https://github.com/user-attachments/assets/70e61bb8-a6f3-47d1-8457-7573dbf7042a" />
 
 
 **A Python-based toolkit for automated analysis of molecular dynamics (MD) simulations, designed for computational drug design (CADD) workflows.**
@@ -61,6 +61,7 @@ Includes:
 <p align="center">
   <img src="images/pca_clusters.png" width="600">
 </p>
+
 ---
 ## Test Dataset
 Uses sample trajectory from:
