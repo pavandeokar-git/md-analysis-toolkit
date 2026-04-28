@@ -41,22 +41,22 @@ Includes:
 
 ### RMSD
 <p align="center">
-  <img src="images/rmsd.png" width="600">
+  <img src="images/rmsd.png" width="500">
 </p>
 
 ### RMSF
 <p align="center">
-  <img src="images/rmsf.png" width="600">
+  <img src="images/rmsf.png" width="500">
 </p>
 
 ### Radius of Gyration
 <p align="center">
-  <img src="images/rg.png" width="600">
+  <img src="images/rg.png" width="500">
 </p>
 
 ### Hydrogen Bonds
 <p align="center">
-  <img src="images/hbonds.png" width="600">
+  <img src="images/hbonds.png" width="500">
 </p>
 
 ### PCA Clustering
