@@ -65,7 +65,7 @@ Includes:
 </p>
 
 ---
-## 🧪 Test Dataset
+## Test Dataset
 Uses sample trajectory from:  
 **MDAnalysis test dataset (Adenylate Kinase)**
 
