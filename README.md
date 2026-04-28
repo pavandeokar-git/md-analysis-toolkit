@@ -1,4 +1,5 @@
-<img width="1536" height="1024" alt="ChatGPT Image Apr 29, 2026, 12_28_15 AM" src="https://github.com/user-attachments/assets/70e61bb8-a6f3-47d1-8457-7573dbf7042a" />
+3 md_analysis_toolkit
+<img width="300" height="244" alt="Protein_Dynamics_Cytochrome_C_2NEW_small" src="https://github.com/user-attachments/assets/c8a3ab51-de0a-470a-9edf-de18b0435848" />
 
 
 **A Python-based toolkit for automated analysis of molecular dynamics (MD) simulations, designed for computational drug design (CADD) workflows.**
