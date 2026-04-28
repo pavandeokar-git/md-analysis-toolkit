@@ -1,4 +1,3 @@
-# MD Analysis Toolkit
 <img width="500" height="330" alt="image" src="https://github.com/user-attachments/assets/8a905dc3-6782-4ca8-b631-f1fbd0b3510e" />
 
 
