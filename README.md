@@ -35,7 +35,7 @@ python md_ana_toolkit.py --rmsd --pca
 outputs/
 Includes:
 .csv → numerical data
-.png → high-quality plots
+.png → plots
 
 ### Example Outputs
 
