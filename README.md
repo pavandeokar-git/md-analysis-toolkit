@@ -25,7 +25,7 @@ Run all analyses (default)
 md_ana_toolkit.py
 
 ### Run specific analyses
-python main.py --rmsd --pca 
+python md_ana_toolkit.py --rmsd --pca 
 
 ### Available options
   Flag	  Description
