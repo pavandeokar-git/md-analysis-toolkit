@@ -4,13 +4,6 @@ A Python-based toolkit for automated analysis of molecular dynamics (MD) simulat
 
 This toolkit enables fast, reproducible, and publication-ready analysis of MD trajectories using MDAnalysis.
 ---
-## Features
-RMSD – Structural stability over time
-RMSF – Residue-wise flexibility
-Radius of Gyration (Rg) – Protein compactness
-Hydrogen Bond Analysis – Interaction stability
-PCA (Essential Dynamics) – Dominant motions
-K-means Clustering – Conformational states
 
 git clone https://github.com/pavandeokar-git/md-analysis-toolkit.git
 cd md-analysis-toolkit
