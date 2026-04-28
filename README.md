@@ -63,19 +63,14 @@ Includes:
 </p>
 
 ---
-## Test Dataset
-Uses sample trajectory from:
-MDAnalysis test dataset (Adenylate Kinase)
+## 🧪 Test Dataset
+Uses sample trajectory from:  
+**MDAnalysis test dataset (Adenylate Kinase)**
+
 ---
-## Use Cases
-Protein stability analysis
-Binding site dynamics
-Post-docking MD validation
-Conformational clustering
-Drug design workflows
----
+
 ## Author
-Pavan Deokar
-Computational Drug Discovery Researcher
-M.S. (Pharm.) Pharmacoinformatics
+**Pavan Deokar**  
+Computational Drug Discovery Researcher  
+M.S. (Pharm.) Pharmacoinformatics  
 NIPER Mohali
