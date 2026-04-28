@@ -12,7 +12,7 @@ Hydrogen Bond Analysis – Interaction stability
 PCA (Essential Dynamics) – Dominant motions
 K-means Clustering – Conformational states
 
-git clone https://github.com/YOUR_USERNAME/md-analysis-toolkit.git
+git clone https://github.com/pavandeokar-git/md-analysis-toolkit.git
 cd md-analysis-toolkit
 
 python3 -m venv venv
