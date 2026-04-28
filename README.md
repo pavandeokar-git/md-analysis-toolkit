@@ -1,5 +1,5 @@
 # MD Analysis Toolkit
-<img width="1536" height="1024" alt="image" src="https://github.com/user-attachments/assets/8a905dc3-6782-4ca8-b631-f1fbd0b3510e" />
+<img width="100" height="700" alt="image" src="https://github.com/user-attachments/assets/8a905dc3-6782-4ca8-b631-f1fbd0b3510e" />
 
 
 A Python-based toolkit for automated analysis of molecular dynamics (MD) simulations, designed for computational drug design (CADD) workflows.
