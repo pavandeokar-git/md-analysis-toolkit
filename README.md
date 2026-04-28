@@ -5,7 +5,7 @@
 
 ### A Python-based toolkit for automated analysis of molecular dynamics (MD) simulations, designed for computational drug design (CADD) workflows.
 
-### his toolkit enables fast, reproducible, and publication-ready analysis of MD trajectories using MDAnalysis.
+### this toolkit enables fast, reproducible, and publication-ready analysis of MD trajectories using MDAnalysis.
 ---
 
 git clone https://github.com/pavandeokar-git/md-analysis-toolkit.git
