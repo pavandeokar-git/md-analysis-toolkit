@@ -17,7 +17,7 @@ from utils.plotting import plot_line, plot_clusters
 from MDAnalysisTests.datafiles import TPR, XTC
 
 
-# ---------------- ARGUMENT PARSER ---------------- #
+# ARGUMENT PARSER 
 parser = argparse.ArgumentParser(description="MD Analysis Toolkit")
 
 parser.add_argument("--rmsd", action="store_true", help="Run RMSD analysis")
@@ -37,7 +37,7 @@ if not any(vars(args).values()):
     args.pca = True
 
 
-# ---------------- LOAD DATA ---------------- #
+# LOAD DATA 
 topology = TPR
 trajectory = XTC
 
@@ -47,7 +47,7 @@ print("\nReading trajectory...")
 u = load_trajectory(topology, trajectory)
 
 
-# ---------------- ANALYSIS ---------------- #
+# ANALYSIS 
 results_done = []
 
 # RMSD
@@ -132,7 +132,7 @@ if args.pca:
     results_done.append("PCA + Clustering")
 
 
-# ---------------- FINAL OUTPUT ---------------- #
+# FINAL OUTPUT
 print("\nFinished.")
 
 if results_done:
