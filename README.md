@@ -6,18 +6,18 @@
 ### A Python-based toolkit for automated analysis of molecular dynamics (MD) simulations, designed for computational drug design (CADD) workflows.
 ---
 
-git clone https://github.com/pavandeokar-git/md-analysis-toolkit.git
-cd md-analysis-toolkit
-python3 -m venv venv
-source venv/bin/activate
-
+git clone https://github.com/pavandeokar-git/md-analysis-toolkit.git  
+cd md-analysis-toolkit  
+python3 -m venv venv  
+source venv/bin/activate  
 pip install -r requirements.txt
+
 ---
 ## Usage
-Run all analyses (default)
+Run all analyses (default)  
 md_ana_toolkit.py
 
-Run specific analyses
+Run specific analyses  
 python md_ana_toolkit.py --rmsd --pca 
 
 ### Available options
