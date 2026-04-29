@@ -18,16 +18,17 @@ pip install -r requirements.txt
 Run all analyses (default)
 md_ana_toolkit.py
 
-### Run specific analyses
+Run specific analyses
 python md_ana_toolkit.py --rmsd --pca 
 
 ### Available options
   Flag	  Description
 --rmsd	  RMSD analysis
 --rmsf	  RMSF analysis
---rg	  Radius of Gyration
+--rg	    Radius of Gyration
 --hbonds  Hydrogen bonds
---pca	  PCA + clustering
+--pca	    PCA + clustering
+
 ---
 ## Output
 outputs/
@@ -36,28 +37,27 @@ Includes:
 .png → plots
 
 ### Example Outputs
-
-### RMSD
+#### RMSD
 <p align="center">
   <img src="images/rmsd.png" width="500">
 </p>
 
-### RMSF
+#### RMSF
 <p align="center">
   <img src="images/rmsf.png" width="500">
 </p>
 
-### Radius of Gyration
+#### Radius of Gyration
 <p align="center">
   <img src="images/rg.png" width="500">
 </p>
 
-### Hydrogen Bonds
+#### Hydrogen Bonds
 <p align="center">
   <img src="images/hbonds.png" width="500">
 </p>
 
-### PCA Clustering
+#### PCA Clustering
 <p align="center">
   <img src="images/pca_clusters.png" width="600">
 </p>
