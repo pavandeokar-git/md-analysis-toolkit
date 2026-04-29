@@ -6,7 +6,7 @@
 ### A Python-based toolkit for automated analysis of molecular dynamics (MD) simulations, designed for computational drug design (CADD) workflows.
 ---
 
-git clone https://github.com/pavandeokar-git/md-analysis-toolkit.git  
+git clone https://github.com/pvndkr/md-analysis-toolkit.git  
 cd md-analysis-toolkit  
 python3 -m venv venv  
 source venv/bin/activate  
