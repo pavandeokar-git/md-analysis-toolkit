@@ -8,7 +8,6 @@
 
 git clone https://github.com/pavandeokar-git/md-analysis-toolkit.git
 cd md-analysis-toolkit
-
 python3 -m venv venv
 source venv/bin/activate
 
